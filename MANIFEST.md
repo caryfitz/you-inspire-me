@@ -1,8 +1,8 @@
 ## Register - you-inspire-me - run of 25
 
 * Maker:  who are you?  Real names are great, internet cats welcome!
-* Recipient:  Who did make it for?  Same hopes on names
-* Customizations:  Did you change the design?  Modify burn parameters
+* Recipient:  Who did make it for?
+* Customizations:  Did you change the design?  (*E.g.* modify burn parameters?)
 * Story:  Pictures, words, whatever
 
 | Number | Maker             | Date           | Recipient        | Customizations | Story |
