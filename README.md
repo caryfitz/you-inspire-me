@@ -2,7 +2,7 @@
 
 <img src="open.jpg" alt="Alt Text" style="width:50%; height:auto;">!
 <img src="top.jpg" alt="Alt Text" style="width:50%; height:auto;">!
-<img src="back.jpg" alt="Alt Text" style="width:50%; height:auto;">!
+<img src="front.jpg" alt="Alt Text" style="width:50%; height:auto;">!
 
 ## Build instructions
 
